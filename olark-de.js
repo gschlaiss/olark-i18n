@@ -1,4 +1,4 @@
-olark.configure('locale.welcome_title', "Chatte mit uns!");
+olark.configure('locale.welcome_title', "Beginne einen Live Chat");
 olark.configure('locale.chatting_title', "Jetzt im Gespräch");
 olark.configure('locale.unavailable_title', "Schick uns eine Nachricht!");
 olark.configure('locale.busy_title', "Im Moment nicht verfügbar.");
@@ -15,7 +15,7 @@ olark.configure('locale.operator_is_typing_text', "schreibt gerade...");
 olark.configure('locale.operator_has_stopped_typing_text', "hat aufgehört zu schreiben");
 olark.configure('locale.introduction_error_text', "Bitte hinterlass uns Deinen Namen und Email Adresse und wir nehmen mit Dir Kontakt auf sollte die Verbindung getrennt werden.");
 olark.configure('locale.introduction_messages', "Hi! Bitte füll das Formular aus und klick auf 'Chat anfangen' um mit uns zu reden.");
-olark.configure('locale.introduction_submit_button_text', "Start Chat");
+olark.configure('locale.introduction_submit_button_text', "Chat anfangen");
 olark.configure('locale.disabled_input_text_when_convo_has_ended', "Chat beendet, neu laden für neuen chat.");
 olark.configure('locale.disabled_panel_text_when_convo_has_ended', "Dieses Gespräch wurde beendet. Du brauchst nur die Seite neu zuladen um ein neues Gespräch anzufangen.");
 olark.configure('locale.name_input_text', "Dein Name");
